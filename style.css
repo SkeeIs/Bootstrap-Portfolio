@@ -1,0 +1,47 @@
+
+/* Index Page CSS */
+body {
+    background:#dddddd;
+}
+
+.navbar {
+    background:#ffffff;
+}
+.navbar-brand {
+    background:#4aaaa5;
+    padding:15px;
+}
+
+.nav-link {
+    border-right: solid 1px #cccccc;
+
+}
+
+.display-4 {
+    color:#4aaaa5;
+}
+
+.jumbotron {
+    background:#ffffff;
+    border-top:solid 2px #666666;
+}
+
+footer {
+    border-top: solid 5px #4aaaa5;
+    text-align: center;
+    background:#666666;
+    padding-top:15px;
+}
+
+/* Contact Page CSS */
+.contact-header {
+    color:#4aaaa5;
+}
+
+.btn {
+    background-color:#4aaaa5;
+    border: none;
+    margin-top:15px;
+}
+
+/* Portfolio page CSS */
