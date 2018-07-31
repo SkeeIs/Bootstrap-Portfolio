@@ -6,7 +6,7 @@ Portfolio Page made from Bootstrap
 
 
 # Images
-![Portfolio](https://imgur.com/a/HD13zrq)
+![Portfolio](https://i.imgur.com/uEeKEv5.png)
 
 # technology used
 
