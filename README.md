@@ -6,7 +6,7 @@ Portfolio Page made from Bootstrap
 
 
 # Images
-![Portfolio](https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCBSAN201807FSF4-FT/raw/master/01-week/homework/part-2/Images/980-index.jpg)
+![Portfolio](https://imgur.com/a/HD13zrq)
 
 # technology used
 
